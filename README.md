@@ -4,7 +4,7 @@
 
 Dada una lista que solo contiene números enteros, imagina que cada elemento
 dentro del lista representa el tamaño máximo de un salto. Iniciando por el primer
-índice "saltamos"de tal manera que se busca determinar si es posible llegar al último
+índice "saltamos" de tal manera que se busca determinar si es posible llegar al último
 índice.
 
 ## Resolución
